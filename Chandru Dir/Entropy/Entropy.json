@@ -3,30 +3,30 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
-    "Button1": 19,
-    "Button1_1": 20,
-    "Button2": 22,
-    "Button2_1": 23,
-    "Gallery1": 5,
-    "galleryTemplate1": 6,
+    "Button1": 12,
+    "Button1_1": 13,
+    "Button2": 15,
+    "Button2_1": 5,
+    "Gallery1": 16,
+    "galleryTemplate1": 17,
     "Host": 3,
-    "Label1": 13,
-    "Label1_1": 15,
-    "Label1_2": 17,
-    "NextArrow2": 9,
-    "Rectangle2": 7,
-    "Screen1": 4,
-    "Screen2": 12,
-    "Separator2": 11,
-    "Subtitle2": 10,
-    "TextInput1": 14,
-    "TextInput1_1": 16,
-    "TextInput1_2": 18,
-    "Title2": 8
+    "Label1": 6,
+    "Label1_1": 8,
+    "Label1_2": 10,
+    "NextArrow2": 20,
+    "Rectangle2": 18,
+    "Screen1": 14,
+    "Screen2": 4,
+    "Separator2": 22,
+    "Subtitle2": 21,
+    "TextInput1": 7,
+    "TextInput1_1": 9,
+    "TextInput1_2": 11,
+    "Title2": 19
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "09/19/2023 00:33:09",
+  "HeaderLastSavedDateTimeUTC": "09/19/2023 00:41:20",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "7394c3c1-a066-4af3-a8de-af5e3f1403c2": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/505b0a4918e34d228d2ed24e36201e27\""
@@ -45,11 +45,11 @@
   "OrderTemplate": {},
   "OrderXMLTemplate": {
     "button": 0,
-    "gallery": 1,
-    "icon": 4,
-    "label": 3,
-    "rectangle": 2,
-    "text": 5
+    "gallery": 3,
+    "icon": 5,
+    "label": 1,
+    "rectangle": 4,
+    "text": 2
   },
   "OverridablePropertiesEntry": {
     "App": {},
@@ -105,9 +105,9 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.1286005,
+    "AnalysisLoadTime": 0.1220816,
     "ControlCount": {
-      "button": 3,
+      "button": 4,
       "gallery": 1,
       "galleryTemplate": 1,
       "icon": 1,
@@ -116,7 +116,7 @@
       "screen": 2,
       "text": 3
     },
-    "DeserializationLoadTime": 1.5040129
+    "DeserializationLoadTime": 1.3386941
   },
   "WasLocalDatabaseReferencesEmpty": false
 }
