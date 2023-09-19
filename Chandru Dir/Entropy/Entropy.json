@@ -5,6 +5,8 @@
     "App": 1,
     "Button1": 19,
     "Button1_1": 20,
+    "Button2": 22,
+    "Button2_1": 23,
     "Gallery1": 5,
     "galleryTemplate1": 6,
     "Host": 3,
@@ -24,7 +26,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "09/19/2023 00:28:36",
+  "HeaderLastSavedDateTimeUTC": "09/19/2023 00:31:02",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "7394c3c1-a066-4af3-a8de-af5e3f1403c2": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/505b0a4918e34d228d2ed24e36201e27\""
@@ -84,17 +86,19 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "button": 5,
+    "button": 4,
     "gallery": 0,
     "icon": 3,
     "label": 2,
     "rectangle": 1,
-    "text": 4
+    "text": 5
   },
   "OverridablePropertiesEntry": {
     "App": {},
     "Button1": {},
     "Button1_1": {},
+    "Button2": {},
+    "Button2_1": {},
     "Gallery1": {},
     "galleryTemplate1": {},
     "Host": {},
@@ -118,6 +122,8 @@
     "App": 0,
     "Button1": 13,
     "Button1_1": 14,
+    "Button2": 0,
+    "Button2_1": 0,
     "Gallery1": 0,
     "galleryTemplate1": 1,
     "Host": 0,
@@ -143,7 +149,7 @@
   "VolatileProperties": {
     "AnalysisLoadTime": 0.1286005,
     "ControlCount": {
-      "button": 2,
+      "button": 3,
       "gallery": 1,
       "galleryTemplate": 1,
       "icon": 1,
