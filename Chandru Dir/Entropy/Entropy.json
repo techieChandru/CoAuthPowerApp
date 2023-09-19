@@ -3,31 +3,31 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
-    "Button1": 21,
-    "Button1_1": 22,
-    "Button2": 5,
-    "Button2_1": 14,
-    "Button3": 23,
-    "Gallery1": 6,
-    "galleryTemplate1": 7,
+    "Button1": 12,
+    "Button1_1": 13,
+    "Button2": 15,
+    "Button2_1": 5,
+    "Button3": 16,
+    "Gallery1": 17,
+    "galleryTemplate1": 18,
     "Host": 3,
-    "Label1": 15,
-    "Label1_1": 17,
-    "Label1_2": 19,
-    "NextArrow2": 10,
-    "Rectangle2": 8,
-    "Screen1": 4,
-    "Screen2": 13,
-    "Separator2": 12,
-    "Subtitle2": 11,
-    "TextInput1": 16,
-    "TextInput1_1": 18,
-    "TextInput1_2": 20,
-    "Title2": 9
+    "Label1": 6,
+    "Label1_1": 8,
+    "Label1_2": 10,
+    "NextArrow2": 21,
+    "Rectangle2": 19,
+    "Screen1": 14,
+    "Screen2": 4,
+    "Separator2": 23,
+    "Subtitle2": 22,
+    "TextInput1": 7,
+    "TextInput1_1": 9,
+    "TextInput1_2": 11,
+    "Title2": 20
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "09/19/2023 00:57:17",
+  "HeaderLastSavedDateTimeUTC": "09/19/2023 01:09:56",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "7394c3c1-a066-4af3-a8de-af5e3f1403c2": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/505b0a4918e34d228d2ed24e36201e27\""
@@ -46,11 +46,11 @@
   "OrderTemplate": {},
   "OrderXMLTemplate": {
     "button": 0,
-    "gallery": 1,
-    "icon": 4,
-    "label": 3,
-    "rectangle": 2,
-    "text": 5
+    "gallery": 3,
+    "icon": 5,
+    "label": 1,
+    "rectangle": 4,
+    "text": 2
   },
   "OverridablePropertiesEntry": {
     "App": {},
@@ -108,9 +108,9 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.1428356,
+    "AnalysisLoadTime": 0.1351949,
     "ControlCount": {
-      "button": 4,
+      "button": 5,
       "gallery": 1,
       "galleryTemplate": 1,
       "icon": 1,
@@ -119,7 +119,7 @@
       "screen": 2,
       "text": 3
     },
-    "DeserializationLoadTime": 0.5877088
+    "DeserializationLoadTime": 0.6425047
   },
   "WasLocalDatabaseReferencesEmpty": false
 }
