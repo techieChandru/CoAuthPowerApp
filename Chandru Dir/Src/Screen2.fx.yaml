@@ -1,0 +1,62 @@
+Screen2 As screen:
+
+    Label1 As label:
+        LineHeight: =1.5
+        Size: =15
+        Text: ="Nam"
+        X: =165
+        Y: =177
+        ZIndex: =1
+
+    TextInput1 As text:
+        Default: ="Text input"
+        LineHeight: =1.5
+        Size: =15
+        X: =426
+        Y: =177
+        ZIndex: =2
+
+    Label1_1 As label:
+        LineHeight: =1.5
+        Size: =15
+        Text: ="Test "
+        X: =165
+        Y: =263
+        ZIndex: =3
+
+    TextInput1_1 As text:
+        Default: ="Text input"
+        LineHeight: =1.5
+        Size: =15
+        X: =426
+        Y: =263
+        ZIndex: =4
+
+    Label1_2 As label:
+        LineHeight: =1.5
+        Size: =15
+        Text: ="Addres"
+        X: =165
+        Y: =339
+        ZIndex: =5
+
+    TextInput1_2 As text:
+        Default: ="Text input"
+        LineHeight: =1.5
+        Size: =15
+        X: =426
+        Y: =339
+        ZIndex: =6
+
+    Button1 As button:
+        Text: ="Submit"
+        X: =426
+        Y: =464
+        ZIndex: =7
+
+    Button1_1 As button:
+        Text: ="Cancel"
+        X: =672
+        Y: =464
+        ZIndex: =8
+

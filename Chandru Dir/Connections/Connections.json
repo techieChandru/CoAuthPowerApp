@@ -1,0 +1,30 @@
+{
+  "7394c3c1-a066-4af3-a8de-af5e3f1403c2": {
+    "appActions": [
+      "providers/PowerPlatform.Governance/Operations/Read"
+    ],
+    "connectionRef": {
+      "apiTier": "Standard",
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/u/henryorsborn/partial-builds/asev3migrations-with-resourceTemplate/1.0.1653.3403/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline",
+      "parameterHints": {},
+      "parameterHintsV2": {}
+    },
+    "datasets": {
+      "https://consolidatededison.sharepoint.com/CM": {
+        "dataSources": {
+          "Test Delete": {
+            "tableName": "726935f3-211f-41ac-82c2-64fcc6a96980"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "Test Delete"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "7394c3c1-a066-4af3-a8de-af5e3f1403c2"
+  }
+}
